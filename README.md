@@ -22,3 +22,9 @@
 - 📈 Improving my DSA skills
 
 ---
+## 📫 Connect with me
+[![LinkedIn](https://www.linkedin.com/in/himal-sandeepa-6305a9259/)
+
+---
+
+⭐ *"Every expert was once a beginner"*
