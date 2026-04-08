@@ -23,7 +23,7 @@
 
 ---
 ## 📫 Connect with me
-[![LinkedIn](https://www.linkedin.com/in/himal-sandeepa-6305a9259/)
+[![LinkedIn] https://www.linkedin.com/in/himal-sandeepa-6305a9259/
 
 ---
 
