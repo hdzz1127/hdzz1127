@@ -3,7 +3,7 @@
 🎓 Software Engineering Undergraduate | Edith Cowan University Colombo
 📱 Flutter & Mobile Developer | Building real apps every week
 🌱 Currently mastering Flutter, Dart & Mobile Development
-💼 Actively seeking internship opportunities (2025)
+💼 Actively seeking internship opportunities (2026)
 📍 Colombo, Sri Lanka
 
 ---
@@ -31,4 +31,4 @@
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/himal-sandeepa-6305a9259)
